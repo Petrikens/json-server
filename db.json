@@ -409,25 +409,6 @@
          ],
          "gender": "male",
          "condition": "sale"
-      },
-      {
-         "id": 23,
-         "name": "Air Max 95",
-         "brand": "Nike",
-         "price": 10500,
-         "url": "https://sneakers.by/image/cache/catalog/sneakers-pics/15031/kedy-converse-chuck-taylor-hi-132169c-1-300x300.webp",
-         "sizes": [
-            "31,5",
-            "33,5",
-            "35,5",
-            "37,5",
-            "39,5",
-            "41,5",
-            "43,5",
-            "45,5"
-         ],
-         "gender": "female",
-         "condition": "new"
       }
    ]
 }
