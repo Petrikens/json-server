@@ -371,6 +371,63 @@
          ],
          "gender": "male",
          "condition": "sale"
+      },
+      {
+         "id": 21,
+         "name": "327",
+         "brand": "New Balance",
+         "price": 12000,
+         "url": "https://sneakers.by/image/cache/catalog/sneakers-pics/15028/kedy-converse-ctas-lift-hi-a01599c-1-300x300.webp",
+         "sizes": [
+            "33",
+            "35",
+            "37",
+            "39",
+            "41",
+            "43",
+            "45",
+            "47"
+         ],
+         "gender": "male",
+         "condition": "new"
+      },
+      {
+         "id": 22,
+         "name": "Air Max '07",
+         "brand": "Nike",
+         "price": 12000,
+         "url": "https://sneakers.by/image/cache/catalog/sneakers-pics/15029/kedy-concerse-chuck-70-hi-172677c-1-300x300.webp",
+         "sizes": [
+            "33",
+            "35",
+            "37",
+            "39",
+            "41",
+            "43",
+            "45",
+            "47"
+         ],
+         "gender": "male",
+         "condition": "sale"
+      },
+      {
+         "id": 23,
+         "name": "Air Max 95",
+         "brand": "Nike",
+         "price": 10500,
+         "url": "https://sneakers.by/image/cache/catalog/sneakers-pics/15031/kedy-converse-chuck-taylor-hi-132169c-1-300x300.webp",
+         "sizes": [
+            "31,5",
+            "33,5",
+            "35,5",
+            "37,5",
+            "39,5",
+            "41,5",
+            "43,5",
+            "45,5"
+         ],
+         "gender": "female",
+         "condition": "new"
       }
    ]
 }
